@@ -4,7 +4,7 @@
 {
 	background: url(../images/sample/slider/ballon_enfant_b.png) no-repeat center center fixed; 
   	background-size: cover;
-  	height: 450px;
+  	height: 350px;
   	margin-left: 0px;
   	margin-right: 0px;
   	margin-bottom: 0px;
@@ -70,7 +70,7 @@ header.navbar .nav>li>a
 
 #intro2
 {
-  padding-top: 15px;
+  padding-top: 20px;
   font-size: 26px;
   color: #2dcc70;
 }
@@ -79,8 +79,20 @@ header.navbar .nav>li>a
 {
   padding-top: 5px;
   font-size: 18px;
+  text-align: justify;
+  margin-right:120px; 
+  margin-left:120px;
+  line-height: 150%;
 }
 
+#inscription
+{
+  padding-top: 30px;
+  font-size: 18px;
+  text-align: center;
+  color: #2dcc70;
+
+}
 .main-info
 {
   padding-top: 30px;
